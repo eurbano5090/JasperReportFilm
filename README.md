@@ -1,6 +1,6 @@
 # :globe_with_meridians:Reporte Films:computer:
 <ol>
-<li>:heavy_check_mark:Proyecto para generar repote con Jasper y Java</li>
+<li>:heavy_check_mark:Proyecto para generar reporte con Jasper y Java</li>
 <li>:heavy_check_mark:Utilizando Jasper estudio, Mysql , Maven, Sakila </li>
 <br>
 
